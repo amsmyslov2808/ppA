@@ -8,3 +8,5 @@ for i in range(count_mans):  # 0 1 2
 print(height_list)
 print(f"минимальнй рост = {min(height_list)}")
 print(f"максммальнй рост = {max(height_list)}")
+
+# добавили новый комментарий
